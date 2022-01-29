@@ -126,7 +126,6 @@ body {
   #bg{
       background: url('../assets/gym1.jpg') no-repeat center;
       background-attachment:fixed;
-      background-size: cover;
       height: 100vh;
       min-height: 500px;
   }
@@ -134,7 +133,6 @@ body {
   #bg1{
     background: url('../assets/gym2.jpg') no-repeat center;
     background-attachment:fixed;
-    background-size: cover;
     height: 100vh;
     min-height: 500px;
 }
