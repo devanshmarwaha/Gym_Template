@@ -45,13 +45,13 @@ body {
   
   .overlay-content {
     position: relative;
-    top: 25%;
+    top: 13%;
     width: 100%;
     text-align: center;
     margin-top: 30px;
   }
   
-  .overlay a {
+  .overlay a{
     padding: 8px;
     text-decoration: none;
     font-size: 36px;
@@ -65,9 +65,6 @@ body {
   }
   
   .overlay .closebtn {
-    position: absolute;
-    top: 20px;
-    right: 45px;
     font-size: 60px;
   }
   
