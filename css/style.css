@@ -130,6 +130,7 @@ body {
       background-repeat: no-repeat;
       background-size: cover;
       height: 100vh;
+      min-height: 500px;
   }
 
   #bg1{
@@ -139,6 +140,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+    min-height: 500px;
 }
 
   .text{
